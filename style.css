@@ -5,95 +5,7 @@
     
 }
 
-/*
-body{
-    background-color: #111110;
-}
-#navbar{
-    height: 60px;
-    background-color: black;
-    
-    
-}
-button{
-    text-align: center;
-    color: black;
-    padding-right: 55px;
-    width: 10px;
-    height: 35px;
-    position: relative;
-    top: 25px;
-    left: 20px;
-    
-}
-.btn3-6{
-    margin-top: 3px;
-    text-align: center;
-}
-.btn6-9{
-    margin-top: 3px;
-}
-.btn9-12{
-    margin-top: 3px;
-}
-.btn12-15{
-    margin-top: 3px;
-}
-.btn3-6{
-    margin-top: 3px;
-}
-.lower-btn{
-    position: relative;
-    left: 45px;
-    margin-top: 3px;
-}
-#cal-display{
-    height: 50px;
-    width: 200px;
-    color: black;
-    font-size: 25px;
-}
-#display-box{
-    border: solid;
-    height: 50px;
-    width: 200px;
-    position: relative;
-    top: 10px;
-    left: 10px;
 
-}
-#logo{
-    color: #ffbb00;
-    font-size: 25px;
-
-}
-a{
-    margin-right: 100px;
-    text-decoration: none;
-}
-
-#btn{
-    background-color: #ffbb00;
-}
-.asd{
-    border: solid;
-}
-#box2{
-    height: 1500px;
-    background-color: aqua;
-}
-#box3{
-    background-color: blueviolet;
-}*/
-/* body{
-    text-align: center;
-} */
-/* div{
-    display: inline-block;
-   border: solid; border-color: black;
-    width: 100px;
-    height: 100px;
-} */
 #flex-container{ 
     
     border: solid;
@@ -202,8 +114,3 @@ button{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
     
 }
-/* #logo{
-    position: static;
-    bottom: 2px;
-    
-} */
