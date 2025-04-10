@@ -19,20 +19,19 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - CSS
 - JavaScript
 
----
+
+
 
 ## 📸 Screenshot
 
-*(You can add a screenshot here later like this)*  
-`![Calculator Screenshot](screenshot.png)`
+-![calculator screenshot](https://github.com/user-attachments/assets/25aab83d-6f2b-43ab-b54a-9f354e51cc4c)
 
----
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the calculator](https://yourusername.github.io/calculator/)
+🔗 [Click here to view the calculator](https://ayushamu.github.io/calculator/)
 
-> Replace `yourusername` with your actual GitHub username after deploying on GitHub Pages.
+
 
 ---
 
